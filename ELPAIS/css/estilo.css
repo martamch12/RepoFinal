@@ -1,0 +1,65 @@
+body{
+    background-color: white;
+}
+ul li {
+    display: inline-block;
+    width: 30%;
+    text-align: center;
+}
+
+#elpais{
+    text-align: left;
+}
+
+#think {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aquamarine;
+    text-align: center;
+}
+
+#proyecto{
+    display: inline-block;
+    text-align: right;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#IMAGEN1{
+   text-align: center;
+    max-width: 100%;
+    height: auto;
+
+}
+
+
+.header{
+    background-color: darkcyan;
+}
+
+h1,h2{text-align: center;
+  font-weight: 100;
+}
+
+h1 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 60px;
+  
+}
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+
+p {
+  font-family: Verdana, Tahoma, sans-serif;
+  font-size: 12px;
+  line-height: 2;
+  font-weight: 100;
+}
+
+article {
+  width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+
+}

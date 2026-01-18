@@ -1,0 +1,113 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Lilita+One&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Lilita+One&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Six+Caps&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&family=Noto+Serif+Display:ital,wght@0,100..900;1,100..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Patrick+Hand&family=Playwrite+NO:wght@100..400&display=swap");
+
+body {
+  background-color: azure;
+}
+
+.catalogo {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  margin-bottom: 30px;
+}
+
+h1 {
+  font-family: "Six Caps", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 50px;
+}
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+
+h3 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+}
+
+h4 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+
+h5 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+
+.cajatipografia {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  text-align: left;
+  padding: 15px;
+  background-color: rgba(255, 255, 255, 0.3);
+  border: 1px dashed #333;
+}
+
+.paloseco {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+.paloseco1 {
+  font-family: "Lilita One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.paloseco2 {
+  font-family: "DM Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+.serifa {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+.serifa1 {
+  font-family: "Arvo", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.serifa2 {
+  font-family: "Noto Serif Display", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
+
+.cali {
+  font-family: "Caveat", cursive;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-size: 20px;
+}
+
+.cali1 {
+  font-family: "Patrick Hand", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px;
+}
+
+.cali2 {
+  font-family: "Playwrite NO", cursive;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}

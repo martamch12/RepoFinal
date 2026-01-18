@@ -1,0 +1,41 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Pinyon+Script&display=swap'); 
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda+SC:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&display=swap');
+ 
+h1{
+    font-family: "Pinyon Script", cursive;
+   font-weight: 400;
+  font-style: normal;
+    font-size: 70px;
+}
+ 
+ .pagina-detalle {
+            max-width: 700px;
+            margin: auto;
+            text-align: center;
+        }
+        img {
+            width: 80%;
+            border-radius: 10px;
+        }
+        a {
+            font-family: Arial, Helvetica, sans-serif;
+            display: inline-block;
+            margin-top: 20px;
+            text-decoration: none;
+            padding: 10px 20px;
+            background: #d8893c;
+            color: white;
+            border-radius: 8px;
+        }
+
+        p{
+             font-family: "Bodoni Moda SC", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+        }
+
+        .boton {
+            text-align: center;
+        }

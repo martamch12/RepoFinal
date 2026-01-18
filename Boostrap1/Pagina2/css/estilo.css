@@ -1,0 +1,18 @@
+.container, .container-fluid{
+    background-color: gray;
+}
+
+h1{
+    background-color: yellow;
+    height: 100px;
+}
+
+h2{
+    background-color: aqua;
+    height: 500px;
+}
+
+h3{
+    background-color: coral;
+    height: 500px;
+}
